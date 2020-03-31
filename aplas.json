@@ -21,7 +21,66 @@
       "months_to_renew_support": "31",
       "sme_email": "Jerad.Gloucester@memento.net.au",
       "vendor_phone": "+62 132 261 6983",
-      "investment_number": "496"
+      "investment_number": "496",
+      "integrations": [
+        {
+          "id": "int-490",
+          "name": "INT-490",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
+          "sourceApplicationId": "sox_e-learning",
+          "targetApplicationId": "herding_ws",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Fire and Forget",
+          "golive_date": "4/2/17",
+          "sme_name": "Gerri Gwyllt",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "ggwylltn@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "12/7/17"
+        },
+        {
+          "id": "int-401",
+          "name": "INT-401",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
+          "sourceApplicationId": "sox_e-learning",
+          "targetApplicationId": "make_weblog",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "10/10/10",
+          "sme_name": "Jessa Boncore",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "jboncoreb@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "6/5/16"
+        },
+        {
+          "id": "int-371",
+          "name": "INT-371",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Nulla mollis molestie lorem. Quisque ut erat.",
+          "sourceApplicationId": "sox_e-learning",
+          "targetApplicationId": "serum_4g",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "File Delivery",
+          "golive_date": "1/10/16",
+          "sme_name": "Muhammad Cammack",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mcammackh@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "16/1/15"
+        }
+      ]
     }
   ]
 }
