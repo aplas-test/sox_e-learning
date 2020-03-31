@@ -1,23 +1,27 @@
 {
-  "id": "sox_e-learning",
-  "name": "SOX E-learning",
-  "categoryId": "legal",
-  "description": "Implemented background artificial intelligence",
-  "investment_24m": "873",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Gusta Leeuwerink",
-  "licensing_cost": "14",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "363",
-  "deployment_date": "8/8/13",
-  "end_of_maintenance": "18/9/17",
-  "department": "Business Development",
-  "status": "Active",
-  "end_of_life": "7/1/20",
-  "vendor_email": "Gusta.Leeuwerink@Spreedsheet.com",
-  "months_to_renew_support": "31",
-  "sme_email": "Jerad.Gloucester@memento.net.au",
-  "vendor_phone": "+62 132 261 6983",
-  "investment_number": "496"
+  "applications": [
+    {
+      "id": "sox_e-learning",
+      "name": "SOX E-learning",
+      "categoryId": "legal",
+      "description": "Implemented background artificial intelligence",
+      "investment_24m": "873",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Gusta Leeuwerink",
+      "licensing_cost": "14",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "363",
+      "deployment_date": "8/8/13",
+      "end_of_maintenance": "18/9/17",
+      "department": "Business Development",
+      "status": "Active",
+      "end_of_life": "7/1/20",
+      "vendor_email": "Gusta.Leeuwerink@Spreedsheet.com",
+      "months_to_renew_support": "31",
+      "sme_email": "Jerad.Gloucester@memento.net.au",
+      "vendor_phone": "+62 132 261 6983",
+      "investment_number": "496"
+    }
+  ]
 }
